@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayanwij
 - 👀 I’m interested in dengue transmission dynamics and anything vector borne, especially outbreak prone.
-- 🌱 I’m currently learning RStan, Python, and efficiently using GitHub
+- 🌱 I’m currently learning RStan, Python, and how to efficiently use GitHub
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me nayantara.wijayanandana@lshtm.ac.uk
 
