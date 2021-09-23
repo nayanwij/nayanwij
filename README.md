@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nayanwij
-- 👀 I’m interested in dengue transmission dynamics and anything vector borne, especially outbreak prone.
-- 🌱 I’m currently learning RStan, Python, and how to efficiently use GitHub
+- 👋 Hi, I’m @nayanwij.  I answer to 'nayan' or 'tara' but never 'naya'🐍. 
+- 👀 I’m working on dengue transmission dynamics and interested in anything vector borne, especially outbreak prone, and fascinated by viruses and genetic epidemiology.
+- 🌱 I’m currently implementing RStan, learning Python, and working at efficiently use GitHub to share reproducible research.
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me nayantara.wijayanandana@lshtm.ac.uk
+- 📫 Reach me at nayantara.wijayanandana@lshtm.ac.uk
 
 <!---
 nayanwij/nayanwij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
