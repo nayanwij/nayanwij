@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nayanwij.  I answer to 'nayan' or 'tara' but never 'naya'🐍. 
-- 👀 I’m working on dengue transmission dynamics and interested in anything vector borne, especially outbreak prone, and fascinated by viruses and genetic epidemiology studies.
+- 👋 Hi, I’m nayantara.  I answer to 'nayan' or 'tara' but never 'naya'🐍. 
+- 👀 I’m working on dengue transmission dynamics and interested in anything vector borne, especially outbreak prone, and fascinated by viruses and genetic epidemiology studies and spatial modelling.
 - 🌱 I’m currently implementing RStan, learning Python, and working at efficiently using GitHub to share reproducible research.
-- 💞️ I’m looking to collaborate on coding projects
+- 💞️ I’m looking to collaborate on coding projects.
 - 📫 Reach me at nayantara.wijayanandana@lshtm.ac.uk
 
 <!---
