@@ -3,7 +3,7 @@ I answer to 'nayan' or 'tara' but never 'naya'which is 🐍 in my native languag
 
 ### I am working on project on dengue transmission dynamics in Sri Lanka using surveillance data. I am interested in modelling anything vector borne, especially, dengue and malaria. 
 
-🌱 Fascinated by viruses and viral evolution, genetic epidemiology, genomic surveillance strategies, and spatial modelling.
+🌱 Fascinated by viruses and viral evolution, systems biology approaches to understand viral pathogenesis, genetic epidemiology, genomic surveillance strategies, and spatial modelling.
 
 🌱 I’m currently implementing RStan, perusing Python, and love using GitHub to share reproducible research.
   
