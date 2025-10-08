@@ -4,8 +4,10 @@ I answer to 'nayan' or 'tara' but never 'naya' which is 🐍 in my native langua
 ### I am working on dengue transmission dynamics in Sri Lanka using surveillance data. I am interested in modelling anything vector borne, especially, dengue and malaria. 
 
 🌱 Fascinated by viruses and viral evolution, systems biology approaches to understand viral pathogenesis, genetic epidemiology, genomic surveillance strategies, and spatial modelling.
+
 🌱 I’m currently implementing RStan, perusing Python, and love using GitHub to share reproducible research.
-💞️ I’m looking to collaborate on coding projects.
+
+🌱 I’m looking to collaborate on coding projects.
 
   📫 Reach me at nayantara.wijayanandana@lshtm.ac.uk
   
