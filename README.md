@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nayantara. 
 I answer to 'nayan' or 'tara' but never 'naya' which is 🐍 in my native language. 
 
-## I am working on dengue transmission dynamics in Sri Lanka using surveillance data. I am interested in modelling anything vector borne, especially, dengue and malaria. 
+#### I am working on dengue transmission dynamics in Sri Lanka using surveillance data. I am interested in modelling anything vector borne, especially, dengue and malaria. 
 
 🌱 Fascinated by viruses and viral evolution, systems biology approaches to understand viral pathogenesis, genetic epidemiology, genomic surveillance strategies, and spatial modelling.
 
