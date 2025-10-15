@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nayantara. 
+# Hi, I’m Nayantara. 
 I answer to 'nayan' or 'tara' but never 'naya' which is 🐍 in my native language. 
 
 #### I am working on dengue transmission dynamics in Sri Lanka using surveillance data. I am interested in modelling anything vector borne, especially, dengue and malaria. 
